@@ -1,6 +1,6 @@
 # OmniEats (Made by Tien Do)
 # Description
-In this project, I will be making a database system for food deliveries on campus by utilizing SQL. My SQL is used for generating database
+In this project, I will be making a database system for food deliveries on campus by utilizing SQL. My SQL is used for generating database. MYSQL Dump will be here after I work on MySQL code/database.
 # Business Rules
 * In this database we will have 3 different kinds of users to log in: Students, Deliverer and Admin users. 
 * Students will able to edit their cart before the Deliverer gets to the location of the desired location.
@@ -16,3 +16,4 @@ The diagram will have a Student logging in to make orders.The students will be a
 Orders or an order will have a trigger. When you order it will send a confirmation number or receipt to your email.
 # Stored Procedure
 A stored procedure would the the Student IDs
+
