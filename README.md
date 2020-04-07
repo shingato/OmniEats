@@ -1,6 +1,6 @@
 # OmniEats (Made by Tien Do and John Dockery)
 # Description
-In this project, I will be making a database system for food deliveries on campus by utilizing SQL. My SQL is used for generating database. MYSQL Dump will be here after I work on MySQL code/database.
+In this project, we will be making a database system for food deliveries on campus by utilizing SQL. My SQL is used for generating database. MYSQL Dump will be here after I work on MySQL code/database.
 # Business Rules
 * In this database we will have 3 different kinds of users to log in: Students, Deliverer and Admin users. 
 * Students will able to edit their cart before the Deliverer gets to the location of the desired location.
