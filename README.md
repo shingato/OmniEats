@@ -11,7 +11,7 @@ Students will be able to log in with their student account from the University. 
 # Description of Future Work:
 In the future we will have a website made first for students to order on campus. This will only be used for students around the campus and no one outside of campus. An app will be future implemented after the website is finished.
 # EERD
-The diagram will have a Student logging in to make orders.The students will be able to make orders will the Admin could view the orders and are able to make changes. The deliverer are only able to update the order and view it. This database will have about 3 tables for now. Students, the order and location.
+The diagram will have a Student logging in to make orders.The students will be able to make orders will the Admin could view the orders and are able to make changes. The deliverer are only able to update the order and view it. This database will have about 4 tables for now. Students, the order and location which are the deliveries and an admin table.
 # Trigger
 Orders or an order will have a trigger. When you order it will send a confirmation number or receipt to your email.
 # Stored Procedure
